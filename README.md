@@ -9,12 +9,20 @@ Hey! 👋 This is Siam, I'm an enthusiastic professional always looking to grow.
 </div><br>
 
 ___
-# Experience
+## Experience
 
-<img align="left" alt="binary-it" width="50px" src="imgs/logo.png" style="margin-top:8px">&nbsp;&nbsp;&nbsp;&nbsp;__Binary IT__  
+<img align="left" alt="binary-it" width="50px" src="imgs/logo.png" style="margin-top:8px;">&nbsp;&nbsp;&nbsp;&nbsp;__Binary IT__  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tropical Alauddin Tower, Rajlokkhi, Uttara, Dhaka, Bangladesh • On-site  
 
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present  
+|<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part-time  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2023 - Mar 2024  
+|<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
 ___
