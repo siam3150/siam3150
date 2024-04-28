@@ -25,5 +25,5 @@ ___
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/css3-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/html5-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/css3-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/html5-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg">&nbsp;&nbsp;<img alt="php" width="18x" src="imgs/git-scm-icon.svg">
 ___
