@@ -17,11 +17,11 @@ ___
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg"><br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg"><br><br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part-time  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2023 - Mar 2024  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/django.svg">&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg"><br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/django.svg">&nbsp;&nbsp;<img alt="php" width="15x" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg"><br><br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
