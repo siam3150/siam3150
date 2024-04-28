@@ -9,7 +9,7 @@ Hey! 👋 This is Siam, I'm an enthusiastic professional always looking to grow.
 </div><br>
 
 ___
-## Experience
+## EXPERIENCE
 
 <img align="left" alt="binary-it" width="50px" src="imgs/logo.png" style="margin-top:8px;">&nbsp;&nbsp;__Binary IT__  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="location_bar" width="13x" src="imgs/location_bar.png">Tropical Alauddin Tower, Rajlokkhi, Uttara, Dhaka, Bangladesh • On-site  
@@ -26,4 +26,26 @@ ___
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/css3-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="20x" src="imgs/html5-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25x" src="imgs/php-original.svg">&nbsp;&nbsp;<img alt="php" width="18x" src="imgs/git-scm-icon.svg">
+___
+
+## EDUCATION
+<img alt="diu" width="35x" src="imgs/diu_logo.png" style="margin-top:">&nbsp;&nbsp; __Daffodil International University-DIU__  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science (BSc), Computer Science and Engineering (CSE)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2020 - Dec 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade: CGPA-3.67 <hr/>
+<img alt="acc" width="35x" src="imgs/ACC_logo.png" style="margin-top:">&nbsp;&nbsp; __Adamjee Cantonment College__  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higher Secondary Certificate (HSC)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2017 - May 2019  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade: GPA-5.00 <hr/>
+<img alt="chsj" width="35x" src="imgs/CHSJ_logo.png" style="margin-top:">&nbsp;&nbsp; __Cantonment High School, Jashore__  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary School Certificate (SSC)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 2015 - Fab 2017  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade: GPA-5.00
+
+
+___
+
+## SKILLS
+
+
 ___
