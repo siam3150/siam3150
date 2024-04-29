@@ -49,13 +49,13 @@ ___
 
 ## SKILLS
 <img align="left" alt="deep learnig" width="90px;" src="imgs/DL_logo.png">
-<img align="left" alt="django" width="55px;" src="imgs/django.svg">&nbsp;&nbsp;&nbsp;
-<img align="left" alt="laravel" width="70px;" src="imgs/laravel.png">&nbsp;
-<img align="left" alt="python" width="75px;" src="imgs/python-original.svg">&nbsp;&nbsp;
-<img align="left" alt="mysql" width="85px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" alt="git" width="70px;" src="imgs/git-scm-icon.svg">&nbsp;&nbsp;&nbsp;
-<img align="left" alt="github" width="65px;" src="imgs/github.svg">&nbsp;&nbsp;&nbsp;
-<img align="left" alt="php" width="90px;" src="imgs/php-original.svg">&nbsp;
+<img align="left" alt="django" width="55px;" src="imgs/django.svg">
+<img align="left" alt="laravel" width="70px;" src="imgs/laravel.png">
+<img align="left" alt="python" width="75px;" src="imgs/python-original.svg">
+<img align="left" alt="mysql" width="85px;" src="imgs/mysql-original-wordmark.svg">
+<img align="left" alt="git" width="70px;" src="imgs/git-scm-icon.svg">
+<img align="left" alt="github" width="65px;" src="imgs/github.svg">
+<img align="left" alt="php" width="90px;" src="imgs/php-original.svg">
 <img align="left" alt="css" width="75px;" src="imgs/css3-original-wordmark.svg">
 <img align="left" alt="html" width="75px;" src="imgs/html5-original-wordmark.svg">
 <img align="left" alt="c" width="70px;" src="imgs/c-original.svg">
