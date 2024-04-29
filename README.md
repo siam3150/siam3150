@@ -48,17 +48,16 @@ ___
 ___
 
 ## SKILLS
-
-<img alt="deep learnig" width="90px;" src="imgs/DL_logo.png" style="margin-top:">
-<img alt="django" width="55px;" src="imgs/django.svg" style="margin-top:">&nbsp;&nbsp;&nbsp;
-<img alt="laravel" width="70px;" src="imgs/laravel.png" style="margin-top:">&nbsp;
-<img alt="python" width="75px;" src="imgs/python-original.svg" style="margin-top:">&nbsp;&nbsp;
-<img alt="mysql" width="85px;" src="imgs/mysql-original-wordmark.svg" style="margin-top:">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="git" width="70px;" src="imgs/git-scm-icon.svg" style="margin-top:">&nbsp;&nbsp;&nbsp;
-<img alt="github" width="65px;" src="imgs/github.svg" style="margin-top:">&nbsp;&nbsp;&nbsp;
-<img alt="php" width="90px;" src="imgs/php-original.svg" style="margin-top:">&nbsp;
-<img alt="css" width="75px;" src="imgs/css3-original-wordmark.svg" style="margin-top:">
-<img alt="html" width="75px;" src="imgs/html5-original-wordmark.svg" style="margin-top:">
-<img alt="c" width="70px;" src="imgs/c-original.svg" style="margin-top:">
+<img align="left" alt="deep learnig" width="90px;" src="imgs/DL_logo.png">
+<img align="left" alt="django" width="55px;" src="imgs/django.svg">&nbsp;&nbsp;&nbsp;
+<img align="left" alt="laravel" width="70px;" src="imgs/laravel.png">&nbsp;
+<img align="left" alt="python" width="75px;" src="imgs/python-original.svg">&nbsp;&nbsp;
+<img align="left" alt="mysql" width="85px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" alt="git" width="70px;" src="imgs/git-scm-icon.svg">&nbsp;&nbsp;&nbsp;
+<img align="left" alt="github" width="65px;" src="imgs/github.svg">&nbsp;&nbsp;&nbsp;
+<img align="left" alt="php" width="90px;" src="imgs/php-original.svg">&nbsp;
+<img align="left" alt="css" width="75px;" src="imgs/css3-original-wordmark.svg">
+<img align="left" alt="html" width="75px;" src="imgs/html5-original-wordmark.svg">
+<img align="left" alt="c" width="70px;" src="imgs/c-original.svg">
 
 ___
