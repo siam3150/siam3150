@@ -15,17 +15,17 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="location_bar" width="13px;" src="imgs/location_bar.png">Tropical Alauddin Tower, Rajlokkhi, Uttara, Dhaka, Bangladesh • On-site  
 
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="laravel" width="15px;" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg"><br><br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="laravel" width="15px;" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg"><br><br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part-time  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2023 - Mar 2024  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="django" width="15px;" src="imgs/django.svg">&nbsp;&nbsp;<img alt="laravel" width="15px;" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="mysql" width="25px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg"><br><br>
+  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Part-time  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2023 - Mar 2024  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="django" width="15px;" src="imgs/django.svg">&nbsp;&nbsp;<img alt="laravel" width="15px;" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="mysql" width="25px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg"><br><br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
-  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="css" width="20px;" src="imgs/css3-original-wordmark.svg">&nbsp;&nbsp;<img alt="html" width="20px;" src="imgs/html5-original-wordmark.svg">&nbsp;&nbsp;<img alt="mysql" width="25px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg">&nbsp;&nbsp;<img alt="git" width="18px;" src="imgs/git-scm-icon.svg">
+  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internship  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 2022 - May 2023  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="css" width="20px;" src="imgs/css3-original-wordmark.svg">&nbsp;&nbsp;<img alt="html" width="20px;" src="imgs/html5-original-wordmark.svg">&nbsp;&nbsp;<img alt="mysql" width="25px;" src="imgs/mysql-original-wordmark.svg">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg">&nbsp;&nbsp;<img alt="git" width="18px;" src="imgs/git-scm-icon.svg">
 ___
 
 ## EDUCATION
