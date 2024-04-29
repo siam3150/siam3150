@@ -60,4 +60,3 @@ ___
 <img align="left" alt="html" width="75px;" src="imgs/html5-original-wordmark.svg">
 <img align="left" alt="c" width="70px;" src="imgs/c-original.svg">
 
-___
