@@ -14,7 +14,7 @@ ___
 <img align="left" alt="binary-it" width="50px;" src="imgs/logo.png" style="margin-top:8px;">&nbsp;__Binary IT__  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="location_bar" width="13px;" src="imgs/location_bar.png">Tropical Alauddin Tower, Rajlokkhi, Uttara, Dhaka, Bangladesh • On-site  
 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Web Developer__  
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Software Engineer__  
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-time  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2024 - Present  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="laravel" width="15px;" src="imgs/laravel.png">&nbsp;&nbsp;<img alt="php" width="25px;" src="imgs/php-original.svg"><br><br>
